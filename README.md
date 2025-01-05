@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my website (sitenti)<br>👯 I’m looking to collaborate with creative company<br>🤝 I’m looking for help with another programmer<br>🌱 I’m currently learning Backend and AI<br>💬 Ask me about Computer 
+🔭 I’m currently working on my website <br>👯 I’m looking to collaborate with creative company<br>🤝 I’m looking for help with another programmer<br>🌱 I’m currently learning Backend and AI<br>💬 Ask me about Computer 
 
 
 ## 🌐 Socials:
